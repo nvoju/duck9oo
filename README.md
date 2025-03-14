@@ -1,4 +1,5 @@
-## Hi there 👋
+## About me
+<h1 align="left">Hi! This is Hyoju Jung. To be a developer coding dreams.</h1>
 
 <!--
 **duck9oo/duck9oo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
