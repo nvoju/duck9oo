@@ -1,7 +1,18 @@
 ## About me
-<h1 align="left">Hi! This is Hyoju Jung. To be a developer coding dreams.</h1>
+# Hi! This is Hyoju Jung. To be a developer coding dreams.
 
-<!--
+# I'm currently studying the basics of both **Python** and **C**.
+
+## Skills
+- **Python**: Learning the basics and eager to improve.
+- **C**: Studying the fundamentals and excited to dive deeper.
+
+## Projects
+- I don't have project experience yet, but I'm eager to start applying what I'm learning soon.
+
+## Contact
+- **Email**: 011_0@naver.com
+
 **duck9oo/duck9oo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
