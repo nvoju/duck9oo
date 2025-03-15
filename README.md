@@ -1,6 +1,6 @@
 # About me
 ## Hi! This is Hyoju Jung, aspiring to become a developer who codes dreams.
-## I'm currently slearning the fundamentals of **Python** and **C**.
+## I'm currently learning the fundamentals of **Python** and **C**.
 
 ## Skills 🌱
 - **Python**: Learning the basics and eager to improve.
